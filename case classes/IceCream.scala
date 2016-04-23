@@ -1,0 +1,1 @@
+case class IceCream(val flavour : String)
